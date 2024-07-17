@@ -1,0 +1,18 @@
+.btn {
+    padding: 4px;
+    font-size: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: darkorange;
+    color: white;
+    width: 120px;
+    height: 40px;
+    font-size: 16px;
+    
+}
+
+.btnContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

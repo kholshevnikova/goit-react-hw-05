@@ -1,0 +1,18 @@
+.list {
+    display: flex;
+    list-style: none;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding: 20px;
+    padding-left: 0;
+}
+
+.listItem {
+    max-width: calc((100% - 30px)/4);
+    overflow: hidden;
+    box-sizing: border-box;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+}
+
