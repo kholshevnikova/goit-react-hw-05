@@ -1,0 +1,17 @@
+
+.moviesList {
+    list-style: none;
+    padding-left: 0px;
+}
+
+.movieItem {
+    margin-bottom: 10px;
+}
+.movieContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.movieContainer img {
+    max-width: 200px;
+}

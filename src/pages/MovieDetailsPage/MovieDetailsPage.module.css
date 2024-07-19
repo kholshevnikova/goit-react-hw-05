@@ -1,0 +1,52 @@
+.movieDetails {
+    padding: 20px;
+}
+
+.goBack {
+    display: block;
+    margin-bottom: 20px;
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+}
+
+.movieInfo {
+    display: flex;
+}
+
+.moviePoster {
+    width: 300px;
+    margin-right: 20px;
+}
+
+.movieContent {
+    max-width: 600px;
+}
+
+.movieContent h2 {
+    margin-top: 0;
+}
+
+.overview,
+.genres {
+    margin-bottom: 20px;
+}
+
+.additionalInfo h3 {
+    margin-top: 20px;
+}
+
+.additionalInfo ul {
+    list-style: none;
+    padding: 0;
+}
+
+.additionalInfo li {
+    margin-bottom: 10px;
+}
+
+.additionalInfo a {
+    text-decoration: none;
+    color: #007bff;
+}
+
